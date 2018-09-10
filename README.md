@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 8
+# Econometria Avançada - Aula 8 - Diagnóstico de resíduos
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
